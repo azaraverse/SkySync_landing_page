@@ -70,6 +70,12 @@ h3 {
     padding: 60px 20px;
 }
 
+.btn-outline-primary {
+    background-color: #fff !important;
+    color: #006eff !important;
+    border-color: transparent !important;
+}
+
 #features {
     background: linear-gradient(to bottom, #006eff, #389fbe);
     color: #fff;
